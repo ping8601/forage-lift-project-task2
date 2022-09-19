@@ -1,5 +1,3 @@
-from audioop import add
-from sys import last_traceback
 from battery.battery import Battery
 from utils import add_years_to_date
 
