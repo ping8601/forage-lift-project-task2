@@ -1,2 +1,2 @@
-# Solution to Forage Lyft Program Task 2
-This repo has the solution to Forage Lyft Program Task 2
+# Solution to Forage Lyft Program Tasks
+This repo has the solutions to the tasks in Forage Lyft Program
